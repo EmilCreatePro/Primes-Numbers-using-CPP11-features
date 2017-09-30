@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506799050 source:c:\users\mitu\desktop\my stuff\proiecte codeblocks\prime_c11\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
